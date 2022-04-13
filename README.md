@@ -1,7 +1,7 @@
 # config-data
 config data del config server
 
-Archivos de confir server
+Archivos de configuración para BackEnd
 -
 
-nttdata-backend-activo-pasivo
+nttdata-backend-activo-pasivo (BackEnd)

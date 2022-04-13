@@ -1,0 +1,9 @@
+server:
+  port:8888
+  contextPath=/swagger #URL http://localhost:8084/swagger-ui.html
+
+#spring.data.mongodb.uri=mongodb://mongoAdmin:mongo@localhost:27017/dbnttdata?authSource=admin
+spring:
+  data:
+    mongodb:
+      uri:urimongodb+srv://atals:DPEXaZTk6Ut2T5rs@cluster0.iwieb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
